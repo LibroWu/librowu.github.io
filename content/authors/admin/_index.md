@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Forgot the city of gulls, and the deep seas swell
+role: Forgot the cry of gulls, and the deep seas swell
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -95,14 +95,11 @@ social:
     icon_pack: fas
     link: libronebula@gmail.com
   - icon: telegram
-    icon_pack: fas
+    icon_pack: fa
     link: https://telegram.me/libronebula
   - icon: Twitter
     icon_pack: fab
     link: https://twitter.com/YxW25901480
-    label: Follow me on Twitter
-    display:
-      header: true
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #  icon_pack: fas
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
