@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Undergraduate
+role: Forgot the city of gulls, and the deep seas swell
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shanghai Jiao Tong University
-    url: https://www.stanford.edu/
+    url: https://en.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -120,5 +120,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Yexin Wu, a senior undergraduate in [ACM Honors Class](https://acm.sjtu.edu.cn/home), at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). It’s been a pleasure living and studying with my talented and diligent classmates, from whom I’ve learned a lot.
+
 {style="text-align: justify;"}
