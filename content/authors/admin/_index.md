@@ -93,13 +93,13 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: libronebula@gmail.com
-  - icon: telegram
-    icon_pack: fa
-    link: https://telegram.me/libronebula
+    link: "mailto:libronebula@gmail.com"
   - icon: Twitter
     icon_pack: fab
     link: https://twitter.com/YxW25901480
+  - icon: telegram
+    icon_pack: fas
+    link: https://telegram.me/libronebula
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #  icon_pack: fas
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
