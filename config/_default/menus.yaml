@@ -11,11 +11,11 @@ main:
     url: '/Publication'
     weight: 50
   - name: Blog
-    url: '#posts'
+    url: '/Blog'
     weight: 20
   - name: CV
     url: uploads/resume.pdf
-    weight: 30
+    weight: 70
   #- name: Talks
   #  url: '/talks'
   #  weight: 40
