@@ -78,6 +78,12 @@ social:
 highlight_name: true
 ---
 
-I am Yexin Wu, a senior undergraduate in [ACM Honors Class](https://acm.sjtu.edu.cn/home), at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). It’s been a pleasure living and studying with my talented and diligent classmates, from whom I’ve learned a lot.
+Hi! I am Yexin Wu, a senior undergraduate in [ACM Honors Class](https://acm.sjtu.edu.cn/home), at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).  I am currently working with [Sidi Lu](http://sidilu.cn/) in UCLA [PLUS lab](https://vnpeng.net/group/) advised by Asst. Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). Previously, I was fortunate to work with Asst. Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/home/zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [BCMI Lab](https://bcmi.sjtu.edu.cn/), focusing on Chain-of-Thought generation.
+
+My research interests lie in:
+
+- **AI Agents**: I aim to design AI agents that can interact with humans, serving as powerful assistants.
+- **Large Language Models(LLMs)**: I am interested in measuring LLMs' capability and leveraging LLMs to build powerful systems.
+- **NLP + X**: I have a passion for bridging NLP with the real world, which means utilizing multimodal information and addressing real-world issues.
 
 {style="text-align: justify;"}
