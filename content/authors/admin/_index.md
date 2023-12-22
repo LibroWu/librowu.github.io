@@ -54,9 +54,9 @@ social:
     link: https://twitter.com/YxW25901480
     label: Follow me on Twitter
     display:
-      header: true
+      header: False
   - icon: fa-telegram
-    icon_pack: fas
+    icon_pack: fa-brands
     link: https://telegram.me/libronebula
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #  icon_pack: fas
