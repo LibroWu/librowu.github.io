@@ -94,9 +94,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:libronebula@gmail.com"
-  - icon: Twitter
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/YxW25901480
+    label: Follow me on Twitter
+    display:
+      header: true
   - icon: telegram
     icon_pack: fas
     link: https://telegram.me/libronebula
