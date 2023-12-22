@@ -56,7 +56,7 @@ social:
     display:
       header: False
   - icon: fa-telegram
-    icon_pack: fa-brands
+    icon_pack: fab
     link: https://telegram.me/libronebula
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #  icon_pack: fas

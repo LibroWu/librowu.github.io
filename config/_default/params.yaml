@@ -61,6 +61,8 @@ locale:
 
 # Site features
 
+social:
+  telegram: "https://t.me/yourtelegramusername"
 features:
   syntax_highlighter:
     theme_light: github-light
