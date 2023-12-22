@@ -55,7 +55,7 @@ social:
     label: Follow me on Twitter
     display:
       header: False
-  - icon: fa-telegram
+  - icon: telegram
     icon_pack: fab
     link: https://telegram.me/libronebula
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
