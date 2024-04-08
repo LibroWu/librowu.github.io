@@ -18,7 +18,7 @@ date: '2024-05-20T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-20T00:00:00Z'
+publishDate: '2024-03-16T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -74,7 +74,3 @@ url_code: 'https://github.com/LibroWu/SelF-Reasoner'
 #   Otherwise, set `slides: ""`.
 #   slides: ""
 ---
-
-
-
-something
