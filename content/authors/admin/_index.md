@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yexin Wu (吴叶鑫)
+title: Yexin Wu
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -78,7 +78,7 @@ social:
 highlight_name: true
 ---
 
-Hi! I am Yexin Wu, a senior undergraduate in [ACM Honors Class](https://acm.sjtu.edu.cn/home), at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).  
+Hi! I am Yexin Wu (吴叶鑫), a senior undergraduate in [ACM Honors Class](https://acm.sjtu.edu.cn/home), at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).  
 
 
 
