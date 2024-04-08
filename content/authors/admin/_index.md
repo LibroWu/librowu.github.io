@@ -78,12 +78,19 @@ social:
 highlight_name: true
 ---
 
-Hi! I am Yexin Wu, a senior undergraduate in [ACM Honors Class](https://acm.sjtu.edu.cn/home), at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).  I am currently working with [Sidi Lu](http://sidilu.cn/) in UCLA [PLUS lab](https://vnpeng.net/group/) advised by Asst. Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). Previously, I was fortunate to work with Asst. Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/home/zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [BCMI Lab](https://bcmi.sjtu.edu.cn/), focusing on Chain-of-Thought generation.
+Hi! I am Yexin Wu, a senior undergraduate in [ACM Honors Class](https://acm.sjtu.edu.cn/home), at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).  
+
+
+
+Beginning in Fall 2024, I'll be embarking on my MSCS degree at [[
+University of Illinois Urbana-Champaign](https://illinois.edu/)](https://illinois.edu/), under the mentorship of Asst. Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
+
+Previously, I was fortunate to work [Sidi Lu](http://sidilu.cn/) in UCLA [PLUS lab](https://vnpeng.net/group/) advised by Asst. Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). And I had the privilege of collaborating with Asst. Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/home/zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [BCMI Lab](https://bcmi.sjtu.edu.cn/), focusing on Chain-of-Thought generation.
 
 My research interests lie in:
 
 - **AI Agents**: I aim to design AI agents that can interact with humans, serving as powerful assistants.
 - **Large Language Models(LLMs)**: I am interested in measuring LLMs' capability and leveraging LLMs to build powerful systems.
-- **NLP + X**: I have a passion for bridging NLP with the real world, which means utilizing multimodal information and addressing real-world issues.
+- **Interpretability**: I am intrigued by the quest to unravel the origins of the enchanting scapabilities of language models.
 
 {style="text-align: justify;"}
