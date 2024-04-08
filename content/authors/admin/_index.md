@@ -91,6 +91,6 @@ My research interests lie in:
 
 - **AI Agents**: I aim to design AI agents that can interact with humans, serving as powerful assistants.
 - **Large Language Models(LLMs)**: I am interested in measuring LLMs' capability and leveraging LLMs to build powerful systems.
-- **Interpretability**: I am intrigued by the quest to unravel the origins of the enchanting scapabilities of language models.
+- **Interpretability**: I am intrigued by the quest to unravel the origins of the enchanting capabilities of language models.
 
 {style="text-align: justify;"}
