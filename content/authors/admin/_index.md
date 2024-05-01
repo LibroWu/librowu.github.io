@@ -83,7 +83,7 @@ Hi! I am Yexin Wu (吴叶鑫), a senior undergraduate in [ACM Honors Class](http
 
 
 Beginning in Fall 2024, I'll be embarking on my MSCS degree at [
-University of Illinois Urbana-Champaign](https://illinois.edu/), under the mentorship of Asst. Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). 
+University of Illinois Urbana-Champaign](https://illinois.edu/).
 
 Previously, I was fortunate to work [Sidi Lu](http://sidilu.cn/) in UCLA [PLUS lab](https://vnpeng.net/group/) advised by Asst. Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). And I had the privilege of collaborating with Asst. Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/home/zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [BCMI Lab](https://bcmi.sjtu.edu.cn/), focusing on Chain-of-Thought generation.
 
