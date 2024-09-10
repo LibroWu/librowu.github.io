@@ -1,5 +1,6 @@
 ---
-title: 'Mitigating Misleading Chain-of-Thought Reasoning with Selective Filtering'
+title: 'MorphGrower: A Synchronized Layer-by-layer Growing Approach for Plausible Neuronal Morphology Generation
+'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
