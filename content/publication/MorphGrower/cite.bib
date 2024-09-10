@@ -1,0 +1,16 @@
+
+@InProceedings{pmlr-v235-yang24ak,
+  title = 	 {{M}orph{G}rower: A Synchronized Layer-by-layer Growing Approach for Plausible Neuronal Morphology Generation},
+  author =       {Yang, Nianzu and Zeng, Kaipeng and Lu, Haotian and Wu, Yexin and Yuan, Zexin and Chen, Danni and Jiang, Shengdian and Wu, Jiaxiang and Wang, Yimin and Yan, Junchi},
+  booktitle = 	 {Proceedings of the 41st International Conference on Machine Learning},
+  pages = 	 {56749--56792},
+  year = 	 {2024},
+  editor = 	 {Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},
+  volume = 	 {235},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {21--27 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v235/main/assets/yang24ak/yang24ak.pdf},
+  url = 	 {https://proceedings.mlr.press/v235/yang24ak.html},
+  abstract = 	 {Neuronal morphology is essential for studying brain functioning and understanding neurodegenerative disorders. As acquiring real-world morphology data is expensive, computational approaches for morphology generation have been studied. Traditional methods heavily rely on expert-set rules and parameter tuning, making it difficult to generalize across different types of morphologies. Recently, MorphVAE was introduced as the sole learning-based method, but its generated morphologies lack plausibility, i.e., they do not appear realistic enough and most of the generated samples are topologically invalid. To fill this gap, this paper proposes <b>MorphGrower</b>, which mimicks the neuron natural growth mechanism for generation. Specifically, MorphGrower generates morphologies layer by layer, with each subsequent layer conditioned on the previously generated structure. During each layer generation, MorphGrower utilizes a pair of sibling branches as the basic generation block and generates branch pairs synchronously. This approach ensures topological validity and allows for fine-grained generation, thereby enhancing the realism of the final generated morphologies. Results on four real-world datasets demonstrate that MorphGrower outperforms MorphVAE by a notable margin. Importantly, the electrophysiological response simulation demonstrates the plausibility of our generated samples from a neuroscience perspective. Our code is available at https://github.com/Thinklab-SJTU/MorphGrower.}
+}

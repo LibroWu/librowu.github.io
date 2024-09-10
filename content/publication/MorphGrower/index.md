@@ -5,9 +5,17 @@ title: 'Mitigating Misleading Chain-of-Thought Reasoning with Selective Filterin
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Nianzu Yang
+  - Kaipeng Zeng
+  - Haotian Lu
   - admin
-  - Zhuosheng Zhang
-  - Hai Zhao
+  -  Zexin Yuan
+  -  Danni Chen
+  -  Shengdian Jiang
+  -  Jiaxiang Wu
+  -  Yimin Wang
+  -  Junchi Yan
+  
 
 # Author notes (optional)
 # author_notes:
@@ -26,15 +34,15 @@ publishDate: '2024-03-16T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation*
-publication_short: In *COLING'24*
+publication: In *The Proceedings of the 41st International Conference on Machine Learning*
+publication_short: In *ICML'24*
 
-abstract: Large language models have manifested remarkable capabilities by leveraging chain-of-thought (CoT) reasoning techniques to solve intricate questions through step-by-step reasoning chains. Despite its success, the efficacy of such reasoning is inherently contingent upon the quality of CoT. However, flawless CoT reasoning cannot be guaranteed due to the presence of indecomposable questions and the potential for erroneous reasoning chains, particularly in the case of small-scale language models. To tackle this challenge, we propose a novel approach called the selective filtering reasoner (SelF-Reasoner) that assesses the entailment relationship between the question and the candidate reasoning chain. Then, we proceed with CoT reasoning when the reasoning chain demonstrates confidence; otherwise, we opt to predict the answer directly. SelF-Reasoner improves the fine-tuned T5 baseline consistently over the ScienceQA, ECQA, and LastLetter tasks. Code is available at https://github.com/LibroWu/SelF-Reasoner.
+abstract: Neuronal morphology is essential for studying brain functioning and understanding neurodegenerative disorders. As acquiring real-world morphology data is expensive, computational approaches for morphology generation have been studied. Traditional methods heavily rely on expert-set rules and parameter tuning, making it difficult to generalize across different types of morphologies. Recently, MorphVAE was introduced as the sole learning-based method, but its generated morphologies lack plausibility, i.e., they do not appear realistic enough and most of the generated samples are topologically invalid. To fill this gap, this paper proposes **MorphGrower**, which mimicks the neuron natural growth mechanism for generation. Specifically, MorphGrower generates morphologies layer by layer, with each subsequent layer conditioned on the previously generated structure. During each layer generation, MorphGrower utilizes a pair of sibling branches as the basic generation block and generates branch pairs synchronously. This approach ensures topological validity and allows for fine-grained generation, thereby enhancing the realism of the final generated morphologies. Results on four real-world datasets demonstrate that MorphGrower outperforms MorphVAE by a notable margin. Importantly, the electrophysiological response simulation demonstrates the plausibility of our generated samples from a neuroscience perspective. Our code is available at https://github.com/Thinklab-SJTU/MorphGrower.
 
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags: [Chain-of-thought, CoT]
+tags: [Neuronal Morphology, Data Augmentation, Machine Learning]
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,8 +52,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2403.19167'
-url_code: 'https://github.com/LibroWu/SelF-Reasoner'
+url_pdf: 'https://arxiv.org/abs/2401.09500'
+url_code: 'https://github.com/Thinklab-SJTU/MorphGrower'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
