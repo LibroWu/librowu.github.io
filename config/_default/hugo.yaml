@@ -4,6 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Yexin Wu # Website name
+liquid: false
 baseURL: 'https://example.com/' # Website URL
 
 ############################

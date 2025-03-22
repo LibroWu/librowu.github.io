@@ -83,7 +83,7 @@ social:
 highlight_name: true
 ---
 
-Hi! I am Yexin Wu (吴叶鑫), a Master of Science in Computer Science (MSCS) student at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/)(UIUC), advised by [Prof. Jiaxuan You](https://cs.stanford.edu/~jiaxuan/). Previously, I received my Bachelor of Engineering degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). During my undergraduate period, I had the privilege of collaborating with Asst. Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/home/zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [BCMI Lab](https://bcmi.sjtu.edu.cn/), focusing on Chain-of-Thought generation.
+Hi! I am Yexin Wu (吴叶鑫, [jɛɕin wu]), a Master of Science in Computer Science (MSCS) student at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/)(UIUC), advised by [Prof. Jiaxuan You](https://cs.stanford.edu/~jiaxuan/). Previously, I received my Bachelor of Engineering degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). During my undergraduate period, I had the privilege of collaborating with Asst. Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/home/zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [BCMI Lab](https://bcmi.sjtu.edu.cn/), focusing on Chain-of-Thought generation.
 
 My research interests lie in:
 
