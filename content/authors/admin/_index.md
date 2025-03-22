@@ -21,8 +21,10 @@ role: Forgot the cry of gulls, and the deep seas swell
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Jiao Tong University
-    url: https://en.sjtu.edu.cn/
+  - name: Siebel School of Computing and Data Science
+    url: https://siebelschool.illinois.edu/
+  - name: University of Illinois, Urbana-Champaign 
+    url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Natural Language Processing and Large Language Model Agent
@@ -36,6 +38,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: MSCS
+      institution: University of Illinois Urbana-Champaign
+      year: 2024 - 2026
     - course: BSc
       institution: Shanghai Jiao Tong University
       year: 2020 - 2024
@@ -64,9 +69,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/librowu
-  #- icon: linkedin
-  #  icon_pack: fab
-  #  link: https://www.linkedin.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yexin-wu-40b7a930b/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -78,14 +83,7 @@ social:
 highlight_name: true
 ---
 
-Hi! I am Yexin Wu (吴叶鑫), a senior undergraduate in [ACM Honors Class](https://acm.sjtu.edu.cn/home), at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).  
-
-
-
-Beginning in Fall 2024, I'll be embarking on my MSCS degree at [
-University of Illinois Urbana-Champaign](https://illinois.edu/).
-
-Previously, I was fortunate to work [Sidi Lu](http://sidilu.cn/) in UCLA [PLUS lab](https://vnpeng.net/group/) advised by Asst. Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). And I had the privilege of collaborating with Asst. Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/home/zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [BCMI Lab](https://bcmi.sjtu.edu.cn/), focusing on Chain-of-Thought generation.
+Hi! I am Yexin Wu (吴叶鑫), a Master of Science in Computer Science (MSCS) student at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/)(UIUC), advised by [Prof. Jiaxuan You](https://cs.stanford.edu/~jiaxuan/). Previously, I received my Bachelor of Engineering degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). During my undergraduate period, I had the privilege of collaborating with Asst. Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/home/zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [BCMI Lab](https://bcmi.sjtu.edu.cn/), focusing on Chain-of-Thought generation.
 
 My research interests lie in:
 
